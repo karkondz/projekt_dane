@@ -1,0 +1,7 @@
+INSTRUKCJA
+Jest to aplikacja która tworzy listê studentów. Mo¿na dodawac osobe oraz
+grupê do jakiej ta osoba ma nale¿ec. Po przekroczeniu okreœlonego limitu 
+wyskakuje okienko z informacj¹ o przekroczeniu limitu osób mo¿liwych do prznale¿enia
+do odpowiedniej grupy.
+Mo¿na rownie¿ zapisac oraz za³adowac odpowiedni¹ listê do/z pliku.
+
